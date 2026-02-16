@@ -1,1 +1,3 @@
-# minimal-notes-app-219974
+# Project Repository
+
+This is the initial README file for the project.
